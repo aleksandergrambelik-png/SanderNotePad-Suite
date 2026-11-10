@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SanderNotepad</string>
+    <string name="hint_input">Search or type note...</string>
+    <string name="btn_search">SEARCH</string>
+    <string name="btn_subdomain">SUBDOMAIN</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_load">LOAD</string>
+    <string name="msg_searching">Searching: %s...</string>
+    <string name="msg_saving">Note saved!</string>
+    <string name="msg_save_fail">Failed to save note.</string>
+    <string name="msg_loaded">Note loaded!</string>
+    <string name="msg_no_note">No notes yet.</string>
+</resources>

@@ -1,0 +1,23 @@
+# Build Artifacts
+obj/
+build/
+*.class
+*.dex
+*.apk
+*.unaligned.apk
+*.aligned.apk
+*.idsig
+res.zip
+
+# Logs & Temp
+*.log
+*.tmp
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# SECRET CORE (Jangan di-push)
+src/com/sander/notepad/security/
+src/com/sander/notepad/osint/

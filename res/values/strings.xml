@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SanderNotepad</string>
+    <string name="hint_input">Cari apa / Ketik catatan...</string>
+    <string name="btn_search">CARI</string>
+    <string name="btn_subdomain">SUBDOMAIN</string>
+    <string name="btn_save">SIMPAN</string>
+    <string name="btn_load">MUAT</string>
+    <string name="msg_searching">Mencari: %s...</string>
+    <string name="msg_saving">Catatan disimpan!</string>
+    <string name="msg_save_fail">Gagal menyimpan catatan.</string>
+    <string name="msg_loaded">Catatan dimuat!</string>
+    <string name="msg_no_note">Belum ada catatan.</string>
+</resources>
